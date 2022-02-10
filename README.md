@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tidersky
 - 👀 I’m interested in front end web development 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning HTML and css
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me ...
 
